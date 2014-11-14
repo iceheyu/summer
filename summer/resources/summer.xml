@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<scanner base-package="test.service.impl"></scanner>
+</beans>
